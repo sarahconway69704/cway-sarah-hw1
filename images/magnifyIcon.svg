@@ -1,0 +1,20 @@
+<svg id="magnifyIcon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224 224">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #ccc;
+        stroke-miterlimit: 10;
+        stroke-width: 8px;
+      }
+    </style>
+  </defs>
+  <title>magnifyIcon</title>
+  <circle id="outerCircle" class="cls-1" cx="112" cy="112" r="108"/>
+  <g id="glass">
+    <circle class="cls-1" cx="477.35" cy="351.48" r="34.68" transform="translate(-509.72 168.48) rotate(-45)"/>
+    <path class="cls-1" d="M573.45,433.66a10,10,0,0,1-.06,14.08h0a10,10,0,0,1-14.08.06l-62.73-62.73c-4.24-4.24,3.31-3.31,7.18-7.18h0c3.87-3.87,2.72-11.2,7-7Z" transform="translate(-401 -272)"/>
+    <path class="cls-1" d="M510.72,399.22l-14.14-14.14c-4.24-4.24,3.31-3.31,7.18-7.18h0c3.87-3.87,2.72-11.2,7-7l14.14,14.14Z" transform="translate(-401 -272)"/>
+  </g>
+  <path id="details" class="cls-1" d="M461.82,367a22,22,0,0,1,0-31" transform="translate(-401 -272)"/>
+</svg>
